@@ -32,6 +32,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "standard", "~> 1.28"
   spec.add_development_dependency "rubocop", "~> 1.50"
 
-  spec.add_dependency "rake", "~> 13"
+  spec.add_dependency "rake", "~> 12"
   spec.add_dependency "serverengine", "~> 2.1"
 end
