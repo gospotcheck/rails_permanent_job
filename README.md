@@ -18,7 +18,7 @@ As its core, there is a `serverengine` gem. As [its repository](https://github.c
 ## Installation
 
 ```
-gem 'rails_permanent_job', git: 'https://github.com/pstrzalk/rails_permanent_job'
+gem 'rails_permanent_job', git: 'https://github.com/gospotcheck/rails_permanent_job'
 ```
 
 ## Usage
